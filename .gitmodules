@@ -1,0 +1,6 @@
+[submodule "processing-server"]
+	path = processing-server
+	url = https://github.com/Avinash110/processing-server.git
+[submodule "app-server"]
+	path = app-server
+	url = https://github.com/Avinash110/app-server.git
